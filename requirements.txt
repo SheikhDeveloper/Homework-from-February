@@ -1,0 +1,3 @@
+pyTelegramBotAPI
+telebot.types (is in pyTelegramBotAPI)
+json
